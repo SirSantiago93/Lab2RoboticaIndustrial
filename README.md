@@ -42,7 +42,11 @@ flowchart TD
 
 Se presentan las dos versiones de la herramienta desarrolladas para el proceso de escritura automatizada, diferenciando entre la versión física utilizada en la práctica real y la versión adaptada para simulación en RobotStudio.
 
-- Hola
+- Herramienta física
+
+Esta versión fue diseñada específicamente para montarse en el robot ABB IRB140 durante la ejecución física del experimento. El cuerpo principal incluye un alojamiento cilíndrico para insertar un marcador convencional, con una inclinación de aproximadamente 60 grados respecto a la vertical. Esta inclinación se definió para evitar posibles singularidades durante el movimiento del robot y mejorar la accesibilidad a la superficie del objeto a decorar.
+
+Además, se incorporó un sistema de amortiguamiento sencillo, que permite cierta flexibilidad axial. Esto ayuda a prevenir rupturas del marcador por presión excesiva y también compensa posibles errores o incertidumbres en la posición de la superficie, producto de tolerancias mecánicas o de calibración.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6394050f-737e-4b22-b7af-98052e0edb66" alt="image" width="400"/>
