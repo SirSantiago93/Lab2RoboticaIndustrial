@@ -46,15 +46,15 @@ En el desarrollo del programa RAPID se utilizaron varias instrucciones fundament
 
 2. MoveJ: Realiza un movimiento articular, es decir, mueve el robot de una posición a otra siguiendo la trayectoria más corta en el espacio de las articulaciones. Se usa cuando se prioriza la rapidez y suavidad del movimiento sobre la trayectoria exacta del efector.
 
-WHILE...DO: Estructura de control que permite repetir un bloque de instrucciones mientras se cumpla una condición lógica. Se utilizó para mantener ciclos activos, como la espera de una señal o la repetición de una secuencia hasta que se cumpla un evento.
+3. WHILE...DO: Estructura de control que permite repetir un bloque de instrucciones mientras se cumpla una condición lógica. Se utilizó para mantener ciclos activos, como la espera de una señal o la repetición de una secuencia hasta que se cumpla un evento.
 
-IF...THEN: Permite la ejecución condicional de instrucciones, evaluando una condición lógica. Se utilizó para tomar decisiones dentro del programa, como activar diferentes comportamientos dependiendo del estado de una señal o variable.
+4. IF...THEN: Permite la ejecución condicional de instrucciones, evaluando una condición lógica. Se utilizó para tomar decisiones dentro del programa, como activar diferentes comportamientos dependiendo del estado de una señal o variable.
 
-SET: Esta instrucción se emplea para activar una señal digital (por ejemplo, una salida del robot o un canal hacia otro dispositivo). Se usó para comunicar eventos o activar dispositivos externos durante la operación.
+5. SET: Esta instrucción se emplea para activar una señal digital (por ejemplo, una salida del robot o un canal hacia otro dispositivo). Se usó para comunicar eventos o activar dispositivos externos durante la operación.
 
-RESET: Contraria a SET, esta instrucción desactiva una señal digital previamente activada. Es clave para finalizar procesos o dejar señales en un estado seguro después de su uso.
+6. RESET: Contraria a SET, esta instrucción desactiva una señal digital previamente activada. Es clave para finalizar procesos o dejar señales en un estado seguro después de su uso.
 
-WaitTime: Introduce una pausa temporal en la ejecución del programa. Se utilizó para asegurar tiempos mínimos entre operaciones, sincronizar eventos o permitir que un proceso externo se complete antes de continuar.
+7. WaitTime: Introduce una pausa temporal en la ejecución del programa. Se utilizó para asegurar tiempos mínimos entre operaciones, sincronizar eventos o permitir que un proceso externo se complete antes de continuar.
 
 ## Diseño de la herramienta detallado.
 
