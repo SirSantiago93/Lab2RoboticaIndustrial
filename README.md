@@ -38,6 +38,10 @@ flowchart TD
     L -- No --> A
 ```
 
+## Descripción de las funciones utilizadas.
+
+
+
 ## Diseño de la herramienta detallado.
 
 Se presentan las dos versiones de la herramienta desarrolladas para el proceso de escritura automatizada, diferenciando entre la versión física utilizada en la práctica real y la versión adaptada para simulación en RobotStudio.
