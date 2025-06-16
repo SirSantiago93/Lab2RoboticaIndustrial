@@ -50,9 +50,9 @@ En el desarrollo del programa RAPID se utilizaron varias instrucciones fundament
 
 4. IF...THEN: Permite la ejecución condicional de instrucciones, evaluando una condición lógica. Se utilizó para tomar decisiones dentro del programa, como activar diferentes comportamientos dependiendo del estado de una señal o variable.
 
-5. SET: Esta instrucción se emplea para activar una señal digital (por ejemplo, una salida del robot o un canal hacia otro dispositivo). Se usó para comunicar eventos o activar dispositivos externos durante la operación.
+5. SET: Se utilizó para activar salidas digitales del controlador del robot, principalmente con el fin de enviar señales a los Smart Components dentro de RobotStudio. Estas señales permiten iniciar procesos virtuales, activar actuadores simulados o comunicar eventos entre el programa RAPID y el entorno simulado.
 
-6. RESET: Contraria a SET, esta instrucción desactiva una señal digital previamente activada. Es clave para finalizar procesos o dejar señales en un estado seguro después de su uso.
+6. RESET: Esta instrucción se usó para desactivar las salidas digitales previamente activadas, permitiendo finalizar eventos o restablecer el estado de control sobre los Smart Components. Es fundamental para asegurar que las señales no permanezcan activas de forma indefinida, evitando comportamientos no deseados en el sistema.
 
 7. WaitTime: Introduce una pausa temporal en la ejecución del programa. Se utilizó para asegurar tiempos mínimos entre operaciones, sincronizar eventos o permitir que un proceso externo se complete antes de continuar.
 
