@@ -37,3 +37,7 @@ flowchart TD
     M --> A
     L -- No --> A
 ```
+
+## Diseño de la herramienta detallado.
+
+
