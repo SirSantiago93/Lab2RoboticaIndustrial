@@ -14,10 +14,10 @@ flowchart TD
     G --> H[Robot regresa a Home]
     H --> I[Reactivar banda para sacar el pastel]
     I --> J[Desactivar luz indicadora]
-    J --> K[Fin]
+    J --> A
 
     B -- No --> L{Entrada 2 activada?}
     L -- Sí --> M[Robot va a posición de mantenimiento]
     M --> K
-    L -- No --> K
+    L -- No --> A
 ```
