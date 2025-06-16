@@ -18,6 +18,6 @@ flowchart TD
 
     B -- No --> L{Entrada 2 activada?}
     L -- Sí --> M[Robot va a posición de mantenimiento]
-    M --> K
+    M --> A
     L -- No --> A
 ```
