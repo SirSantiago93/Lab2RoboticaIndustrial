@@ -40,6 +40,10 @@ flowchart TD
 
 ## Diseño de la herramienta detallado.
 
+Se presentan las dos versiones de la herramienta desarrolladas para el proceso de escritura automatizada, diferenciando entre la versión física utilizada en la práctica real y la versión adaptada para simulación en RobotStudio.
+
+- Hola
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6394050f-737e-4b22-b7af-98052e0edb66" alt="image" width="400"/>
 </div>
