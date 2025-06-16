@@ -1,4 +1,4 @@
-# Laboratoro 2 - Robotica Industrial
+# Laboratorio 2 - Robotica Industrial
 Este es el repositorio de un laboratorio desarrollado con un robot indutrial ABB
 
 <div align="center">
@@ -81,3 +81,5 @@ Esta herramienta no incluye partes móviles ni amortiguamiento, ya que su propó
 </div>
 
 
+## Código en RAPID del módulo utilizado para el desarrollo de la práctica
+El módulo de RAPID se encuentra subido en su estado natural, no obstante, también se sube un archivo de bloc de notas donde se encuentra completo y visible.
