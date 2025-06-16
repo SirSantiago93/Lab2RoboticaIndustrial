@@ -1,7 +1,9 @@
-# Lab2RoboticaIndustrial
+# Laboratoro 2 - Robotica Industrial
 Este es el repositorio de un laboratorio desarrollado con un robot indutrial ABB
 
-## Descripcón detallada de la solución planteada.
+![image](https://github.com/user-attachments/assets/939dbcbb-e26d-408f-ad91-98888a410131)
+
+## Descripción detallada de la solución planteada.
 
 La solución se basó en una simulación en RobotStudio complementada con pruebas físicas en un entorno real usando el robot ABB IRB140_6_81_C_03. El objetivo era automatizar el proceso de decoración de una caja, escribiendo nombres y agregando un pequeño diseño, además de moverla usando una banda transportadora simulada.
 
