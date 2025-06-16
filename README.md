@@ -6,14 +6,14 @@ Este es el repositorio de un laboratorio desarrollado con un robot indutrial ABB
 ```mermaid
 flowchart TD
     A[Inicio] --> B{Entrada 1 activada?}
-    B -- Sí --> C[Activar banda transportadora]
-    C --> D[Esperar llegada de caja a zona de trabajo]
-    D --> E[Robot va a posición de trabajo desde Home]
-    E --> F[Activar luz indicadora]
+    B -- Sí --> C[Activar luz indicadora]
+    C --> D[Activar banda transportadora]
+    D --> E[Esperar llegada de caja a zona de trabajo]
+    E --> F[Robot va a posición de trabajo desde Home]
     F --> G[Robot escribe nombres y decora pastel]
-    G --> H[Desactivar luz indicadora]
-    H --> I[Robot regresa a Home]
-    I --> J[Reactivar banda para sacar el pastel]
+    G --> H[Robot regresa a Home]
+    H --> I[Reactivar banda para sacar el pastel]
+    I --> J[Desactivar luz indicadora]
     J --> K[Fin]
 
     B -- No --> L{Entrada 2 activada?}
