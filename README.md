@@ -52,6 +52,12 @@ Además, se incorporó un sistema de amortiguamiento sencillo, que permite ciert
   <img src="https://github.com/user-attachments/assets/6394050f-737e-4b22-b7af-98052e0edb66" alt="image" width="400"/>
 </div>
 
+- Herramienta simulada
+
+Para la simulación del sistema en RobotStudio, se creó un modelo simplificado pero funcional de la herramienta. En esta versión, se representó directamente el volumen total del marcador, incluyendo su forma cónica en la punta, con el fin de tener una referencia visual precisa durante la programación de los movimientos.
+
+Esta herramienta no incluye partes móviles ni amortiguamiento, ya que su propósito principal fue permitir la configuración y ajuste fino de la rutina de escritura en el entorno virtual, simulando el espacio ocupado por la herramienta real sin necesidad de interacción física.
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ea805f5c-cf48-4d2f-ba65-fcc3e2d20dea" alt="image" width="400"/>
 </div>
