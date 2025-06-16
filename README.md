@@ -37,6 +37,8 @@ flowchart TD
     M --> A
     L -- No --> A
 ```
+## Plano de planta de la ubicación de cada uno de los elementos
+
 
 ## Descripción de las funciones utilizadas.
 
@@ -82,4 +84,9 @@ Esta herramienta no incluye partes móviles ni amortiguamiento, ya que su propó
 
 
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica
-El módulo de RAPID se encuentra subido en su estado natural, no obstante, también se sube un archivo de bloc de notas donde se encuentra completo y visible.
+El módulo de RAPID se encuentra subido en su estado natural *.mod*. De el es importante recalcar los dos **IFS** que definen cada una de las etapas (realizar decoración del pastel o movimiento para cambio de herramienta), así como es importante recalcar el uso de salidas digitales para observar de manera visual el proceso que se está realizando.
+
+## Video de la práctica
+### Video explicativo
+
+[![Video Práctica](https://img.youtube.com/vi/4zWK_uR9J34/0.jpg)](https://www.youtube.com/watch?v=4zWK_uR9J34)
