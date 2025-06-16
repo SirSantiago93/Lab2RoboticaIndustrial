@@ -38,6 +38,7 @@ flowchart TD
     L -- No --> A
 ```
 ## Plano de planta de la ubicación de cada uno de los elementos
+En el siguiente enlace se logra ver el plano de la ubicación de cada uno de los elementos en RobotStudio [Descargar informe en PDF](./Plano.pdf)
 
 
 ## Descripción de las funciones utilizadas.
