@@ -1,7 +1,9 @@
 # Laboratoro 2 - Robotica Industrial
 Este es el repositorio de un laboratorio desarrollado con un robot indutrial ABB
 
-<img src="https://github.com/user-attachments/assets/939dbcbb-e26d-408f-ad91-98888a410131" alt="image" width="400"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/939dbcbb-e26d-408f-ad91-98888a410131" alt="image" width="400"/>
+</div>
 
 ## Descripción detallada de la solución planteada.
 
