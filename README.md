@@ -41,6 +41,10 @@ flowchart TD
 ## Diseño de la herramienta detallado.
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/6394050f-737e-4b22-b7af-98052e0edb66" alt="image" width="400"/>
+</div>
+
+<div align="center">
   <img src="https://github.com/user-attachments/assets/ea805f5c-cf48-4d2f-ba65-fcc3e2d20dea" alt="image" width="400"/>
 </div>
 
